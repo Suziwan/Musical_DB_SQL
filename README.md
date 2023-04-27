@@ -1,7 +1,13 @@
 # Musical_DB_SQL
 Week 1 Day 4 - Project : Musical database using SQL
 
-## a) Get all albums
+## Introduction
+For the following exercise, the database was given, it gives various data related to music.  
+The tables analysed in this project were: albums, artists and tracks.  
+Source: https://drive.google.com/file/d/1XG-s84jEJINSnLUgw5TYBCFsuyUX_Ll4/view  
+The language of used for queries was SQLite3, using SQLiteStudio software.
+
+## a) Get all albums of the database
 ```sql
 SELECT Title FROM albums;
 ```

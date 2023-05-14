@@ -2,10 +2,11 @@
 Week 1 Day 4 - Project : Musical database using SQL
 
 ## Introduction
-For the following exercise, the database was given, it gives various data related to music.  
-The tables analysed in this project were: albums, artists and tracks.  
+For the following exercise, the database was given, and includes various data related to music.  
 Source: https://drive.google.com/file/d/1XG-s84jEJINSnLUgw5TYBCFsuyUX_Ll4/view  
-The language of used for queries was SQLite3, using SQLiteStudio software.
+The tables analysed in this project were: albums, artists and tracks.  
+
+The language used for queries was SQLite3, using the SQLiteStudio software.
 
 ## a) Get all albums of the database
 ```sql
